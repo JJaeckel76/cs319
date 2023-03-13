@@ -1,0 +1,209 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "url": "images/Ateam.jpg",
+        "text": "A team",
+        "Players":[
+            {      "id": 18,
+            "number": "18",
+            "year": "Senior",
+            "name": "Justin"
+        },
+        {
+            "id": 90,
+            "number": "90",
+            "year": "Freshman",
+            "name": "Oscar"
+        },
+        {
+            "id": 21,
+            "number": "21",
+            "year": "Freshman",
+            "name": "Chris"
+        },
+        {
+            "id": 6,
+            "number": "6",
+            "year": "Freshman",
+            "name": "Braiden"
+        },
+        {
+            "id": 69,
+            "number": "69",
+            "year": "Freshman",
+            "name": "Aiden"
+        },
+        {
+            "id": 26,
+            "number": "26",
+            "year": "Freshman",
+            "name": "Andres"
+        },
+        {
+            "id": 10,
+            "number": "10",
+            "year": "Senior",
+            "name": "Dakota"
+        },
+        {
+            "id": 46,
+            "number": "46",
+            "year": "Freshman",
+            "name": "Danny"
+        },
+        {
+            "id": 29,
+            "number": "29",
+            "year": "Grad Student",
+            "name": "Gustavo"
+        },
+        {
+            "id": 33,
+            "number": "33",
+            "year": "Senior",
+            "name": "Kyle"
+        },
+        {
+            "id": 4,
+            "number": "4",
+            "year": "Senior",
+            "name": "Lucas"
+        },
+        {
+            "id": 15,
+            "number": "15",
+            "year": "Freshman",
+            "name": "Chad"
+        },
+        {
+            "id": 2,
+            "number": "2",
+            "year": "Senior",
+            "name": "Alex"
+        }, {
+            "id": 13,
+            "number": "13",
+            "year": "Junior",
+            "name": "Brad"
+        }
+        ]
+      },
+      {
+        "id": 2,
+        "url": "images/Bteam.jpg",
+        "text": "B Team",
+        "Players":[
+            {
+                "id": 16,
+                "number": "16",
+                "year": "Junior",
+                "name": "James"
+            },
+            {
+                "id": 24,
+                "number": "24",
+                "year": "Sophmore",
+                "name": "Nic"
+            },
+            {
+                "id": 25,
+                "number": "25",
+                "year": "Sophmore",
+                "name": "Cole"
+            },
+            {
+                "id": 12,
+                "number": "12",
+                "year": "Sophmore",
+                "name": "Grant"
+            },
+            {
+                "id": 9,
+                "number": "9",
+                "year": "Freshman",
+                "name": "Jason"
+            },
+            {
+                "id": 19,
+                "number": "19",
+                "year": "Sophmore",
+                "name": "Will"
+            },
+            {
+                "id": 17,
+                "number": "17",
+                "year": "Freshman",
+                "name": "Jackson"
+            },
+            {
+                "id": 20,
+                "number": "20",
+                "year": "Freshman",
+                "name": "Ryan"
+            },
+            {
+                "id": 45,
+                "number": "45",
+                "year": "Junior",
+                "name": "Griffin"
+            },
+            {
+                "id": 34,
+                "number": "34",
+                "year": "Freshman",
+                "name": "Durai"
+            }
+        ]
+      },
+      {
+        "id":3,
+        "url":"images/Board.png",
+        "text":"The cabinet of the Men's and the Woman's Volleyball Clubs",
+        "Cabinet":[
+            {
+                "id": 1,
+                "name": "Brad",
+                "year": "Junior",
+                "Position": "President"
+            },
+            {
+                "id": 1,
+                "name": "Livia",
+                "year": "Sophmore",
+                "Position": "Secratary"
+            },
+            {
+                "id": 1,
+                "name": "Maddy",
+                "year": "Junior",
+                "Position": "Vice President"
+            },
+            {
+                "id": 1,
+                "name": "Lucas",
+                "year": "Senior",
+                "Position": "Vice President"
+            },
+            {
+                "id": 1,
+                "name": "Justin",
+                "year": "Senior",
+                "Position": "Secratary"
+            },
+            {
+                "id": 1,
+                "name": "Kate",
+                "year": "Senior",
+                "Position": "President"
+            }
+    
+        ]
+      }
+      
+      
+      
+    ]
+   
+  }
+  

@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: gray;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+}
+img{
+    width: 45%; 
+
+}
+
+
+
+  

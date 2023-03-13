@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Arial;
+    background-image: url('images/halloween.JPG');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+nav{
+    background: #C8102E;
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a{
+    color: white; 
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+}
+
+
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: gray;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+        margin-bottom: 10px;       
+}
+img{
+    width: 35%; 
+}
+p{
+    width: 52%;
+    margin: auto;
+    color: white;
+    padding: 10px;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+        background-color: #C8102E;
+    border-radius: 20px;
+}
+
+  #myImage {
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 15px;
+  }
+  #team{
+    width: 75px;
+    background-color: #C8102E;
+  }
+  #cabinet{
+    width: 35%;
+    text-align: center;
+  }
+  #playerInfo{
+    color: white;
+    text-shadow:
+        0.05em 0 black,
+        0 0.05em black,
+        -0.05em 0 black,
+        0 -0.05em black,
+        -0.05em -0.05em black,
+        -0.05em 0.05em black,
+        0.05em -0.05em black,
+        0.05em 0.05em black;
+  }
+  #playerList{
+    display: block;
+    margin: auto;
+    padding: 0;
+    width: 25%;
+    background-color: #C8102E;
+    border-radius: 25px;
+    padding: 10px;
+  }
+  #index{
+    margin-bottom: 15px;
+  }
+  #schedule{
+    width: 30%;
+  }
+  
+  
+
+
